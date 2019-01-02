@@ -2424,7 +2424,7 @@ body {
   height: 3.25rem;
   left: 0;
   line-height: 3.25rem;
-  position: absolute;
+  position: fixed;
   top: 0;
   width: 100%;
   z-index: 10001; }
@@ -2476,7 +2476,7 @@ body {
     padding-top: 44px; }
 
   #header {
-height: 44px;
+    height: 44px;
     line-height: 44px; } }
 @media screen and (max-width: 480px) {
   #header {
